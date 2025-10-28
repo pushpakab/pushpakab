@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate Backend Developer & AI enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pushpakabnave&label=Profile%20views&color=0e75b6&style=flat" alt="pushpakabnave" />
+  <img src="https://komarev.com/ghpvc/?username=pushpakab&label=Profile%20views&color=0e75b6&style=flat" alt="pushpakab" />
 </p>
 
 ---
@@ -36,30 +36,30 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushpakab&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pushpakab&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ### 📈 GitHub Stats & Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushpakab&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpakab&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushpakab&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpakab&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakab&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakab&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/pushpak-abnave-144003395/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<a href="https://www.linkedin.com/in/pushpakabnave" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
-<a href="mailto:pushpak.abnave@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="40" width="40" />
+<a href="mailto:pushpak.abnave@gmail.com" target="_blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="40" width="40"/>
 </a>
 </p>
 
