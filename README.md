@@ -14,7 +14,7 @@
 - 💬 Ask me about **Java, C#, Firebase, MySQL, APIs**  
 - 📫 Reach me at **pushpak.abnave@gmail.com**  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/pushpak-abnave-144003395/)  
-- ⚡ Fun fact: **I love solving problems late at night ☕**
+- ⚡ Fun fact: **My best ideas come right before I sleep… or never 💭**
 
 ---
 
