@@ -36,19 +36,19 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushpakabnave&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pushpakab&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats & Activity  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushpakabnave&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushpakab&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpakabnave&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakabnave&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakab&layout=compact&theme=tokyonight" />
 </p>
 
 ---
