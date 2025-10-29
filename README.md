@@ -59,7 +59,7 @@
 <a href="https://www.linkedin.com/in/pushpakabnave" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
 </a>
-<a href="mailto:pushpak.abnave@gmail.com" target="_blank">
+<a href="mailto:abnavepushpak@gmail.com" target="_blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="40" width="40"/>
 </a>
 </p>
