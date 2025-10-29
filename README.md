@@ -12,7 +12,7 @@
 - 🌱 Learning **Backend Development, DevOps, and AI Integration**  
 - 👯 Looking to collaborate on **Backend or AI-based Projects**  
 - 💬 Ask me about **Java, C#, Firebase, MySQL, APIs**  
-- 📫 Reach me at **pushpak.abnave@gmail.com**  
+- 📫 Reach me at **abnavepushpak@gmail.com**  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/pushpak-abnave-144003395/)  
 - ⚡ Fun fact: **My best ideas come right before I sleep… or never 💭**
 
